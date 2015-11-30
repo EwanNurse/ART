@@ -1,0 +1,32 @@
+.BestClassEver
+{
+    color: DarkGray;
+    font-size: 40px;
+    text-align: left;
+    background-color: Purple;
+    border-style: none none none dotted;
+    border-left: thick double;
+    border-color: green;
+    width: 500px;
+    background-image: url("giphy.gif");
+    font-family: "arial";
+    direction: rtl;
+}
+
+.image
+{
+    width: 200px;
+    position: relative;
+    left: 40px
+}
+
+.chart {
+    width: 100px;
+    height: 100px;
+}
+
+.circ1 {
+    stroke: purple; 
+    fill: white;
+    stroke-width: 10;
+}
